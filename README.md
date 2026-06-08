@@ -1,16 +1,47 @@
-# React + Vite
+Cadence (Core Edition)
+A lean, high-performance habit tracker focusing on core routine management.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Cadence Core Edition is a lightweight, streamlined version of the Cadence ecosystem. This version was built to prioritize speed, simplicity, and fundamental habit-tracking logic, stripping away complexity to ensure a distraction-free user experience.
 
-Currently, two official plugins are available:
+🎯 Design Philosophy: "Minimalist Performance"
+Unlike feature-heavy trackers, this edition of Cadence was built to:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Minimize Latency: Instantaneous state transitions and UI rendering.
 
-## React Compiler
+Maximize Clarity: A simplified dashboard that allows users to log habits in under 2 seconds.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Core Logic Focus: Designed to showcase foundational state management and data handling without the overhead of complex analytics.
 
-## Expanding the ESLint configuration
+🚀 Key Capabilities
+Efficient Routine Logging: A simplified interface to manage daily habits.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Streamlined State Management: Handles user habits using a clean, predictable data flow.
+
+High-Speed UI: Built with Vite and React for snappy, responsive interactions across devices.
+
+Performance-First Design: Optimized for low-memory environments and quick-start usage.
+
+🛠 Tech Stack
+Framework: React (Vite)
+
+Language: JavaScript
+
+Build Tools: Vite
+
+Architecture: Focused on lightweight component composition for rapid iteration.
+
+📦 Getting Started
+Clone this repo:
+
+Bash
+git clone https://github.com/haricharan052006/[YOUR_SIMPLE_REPO_NAME]
+Install dependencies:
+
+Bash
+npm install
+Run the development server:
+
+Bash
+npm run dev
+📝 About
+This project serves as the foundational "Core Edition" of the Cadence application. It highlights my ability to build clean, functional, and performant user interfaces from the ground up.
