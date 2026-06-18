@@ -46,4 +46,4 @@ npm run dev
 📝 About
 This project serves as the foundational "Core Edition" of the Cadence application. It highlights my ability to build clean, functional, and performant user interfaces from the ground up.
 
-This is the simple or lite verison of the cadence.
+This is the simple or lite verison of the cadence
