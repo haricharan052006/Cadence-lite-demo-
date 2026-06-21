@@ -32,7 +32,6 @@ Architecture: Focused on lightweight component composition for rapid iteration.
 
 📦 Getting Started
 Clone this repo:
-
 Bash
 git clone https://github.com/haricharan052006/[YOUR_SIMPLE_REPO_NAME]
 Install dependencies:
