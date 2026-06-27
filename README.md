@@ -33,7 +33,6 @@ Clone this repo:
 Bash
 git clone https://github.com/haricharan052006/[YOUR_SIMPLE_REPO_NAME]
 Install dependencies:
-
 Bash
 npm install
 Run the development server:
