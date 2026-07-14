@@ -21,7 +21,6 @@ Framework: React (Vite)
 Language: JavaScript
 
 Build Tools: Vite
-
 Architecture: Focused on lightweight component composition for rapid iteration.
 
 📦 Getting Started
