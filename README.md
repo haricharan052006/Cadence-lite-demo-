@@ -11,7 +11,6 @@ Core Logic Focus: Designed to showcase foundational state management and data ha
 
 🚀 Key Capabilities
 Efficient Routine Logging: A simplified interface to manage daily habits.
-
 Streamlined State Management: Handles user habits using a clean, predictable data flow.
 
 High-Speed UI: Built with Vite and React for snappy, responsive interactions across devices.
