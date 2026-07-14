@@ -3,7 +3,6 @@ A lean, high-performance habit tracker focusing on core routine management.
 Cadence Core Edition is a lightweight, streamlined version of the Cadence ecosystem. This version was built to prioritize speed, simplicity, and fundamental habit-tracking logic, stripping away complexity to ensure a distraction-free user experience.
 🎯 Design Philosophy: "Minimalist Performance"
 Unlike feature-heavy trackers, this edition of Cadence was built to:
-
 Minimize Latency: Instantaneous state transitions and UI rendering.
 
 Maximize Clarity: A simplified dashboard that allows users to log habits in under 2 seconds.
