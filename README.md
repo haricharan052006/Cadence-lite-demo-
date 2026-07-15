@@ -12,7 +12,6 @@ Streamlined State Management: Handles user habits using a clean, predictable dat
 
 High-Speed UI: Built with Vite and React for snappy, responsive interactions across devices.
 Performance-First Design: Optimized for low-memory environments and quick-start usage.
-
 🛠 Tech Stack
 Framework: React (Vite)
 
