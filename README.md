@@ -6,7 +6,6 @@ Unlike feature-heavy trackers, this edition of Cadence was built to:
 Minimize Latency: Instantaneous state transitions and UI rendering.
 Maximize Clarity: A simplified dashboard that allows users to log habits in under 2 seconds.
 Core Logic Focus: Designed to showcase foundational state management and data handling without the overhead of complex analytics.
-
 🚀 Key Capabilities
 Efficient Routine Logging: A simplified interface to manage daily habits.
 Streamlined State Management: Handles user habits using a clean, predictable data flow.
